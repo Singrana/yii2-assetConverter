@@ -1,5 +1,5 @@
 {
-  "name": "singrana/yii2-assetConverter",
+  "name": "singrana/yii2-assetconverter",
   "description": "Yii2 assets compiler",
   "version": "0.1.1",
   "type": "yii2-extension",
