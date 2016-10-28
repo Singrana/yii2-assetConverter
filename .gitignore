@@ -1,0 +1,51 @@
+# phpstorm project files
+.idea
+
+# zend studio for eclipse project files
+.buildpath
+.project
+.settings
+
+# windows thumbnail cache
+Thumbs.db
+
+# global user content storage
+/source
+
+# documentation folder
+/docs/generated
+
+# composer vendor dir
+/vendor
+
+# composer itself is not needed
+composer.phar
+composer
+add 
+# Mac DS_Store Files
+.DS_Store
+
+# phpunit itself is not needed
+phpunit.phar
+# local phpunit config
+/phpunit.xml
+
+.env
+/composer.lock
+/runtime/
+
+/webroot/i/
+/webroot/u/
+/webroot/uploads/
+/webroot/media/
+/webroot/assets/
+/webroot/download/
+/webroot/sitemap/
+/webroot/export/
+
+/webrootadmin/i/
+/webrootadmin/u/
+/webrootadmin/media/
+/webrootadmin/assets/
+
+
