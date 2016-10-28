@@ -15,13 +15,13 @@ The preferred way to install this extension is through [composer](http://getcomp
 Either run
 
 ```
-php composer.phar require --prefer-dist singrana/yii2-assetConverter "*"
+php composer.phar require --prefer-dist singrana/yii2-assetconverter "*"
 ```
 
 or add
 
 ```
-"singrana/yii2-assetConverter": "*"
+"singrana/yii2-assetconverter": "*"
 ```
 
 to the require section of your `composer.json` file.
