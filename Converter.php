@@ -20,7 +20,7 @@ class Converter extends AssetConverter
 
 		'less'				=>
 		[
-			'class'			=>	'singrana\assetConverter\converters\Less',
+			'class'			=>	'singrana\assetconverter\converters\Less',
 			'output'		=>	'css',
 			'options'		=>
 			[
